@@ -1,2 +1,2 @@
 #exit 1
-export SYNC_PATHS='"'
+sleep 10
