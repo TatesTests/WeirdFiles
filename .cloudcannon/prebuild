@@ -1,2 +1,3 @@
 #exit 1
 export SYNC_PATHS='"'
+exit 1
